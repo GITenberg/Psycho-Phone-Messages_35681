@@ -1,0 +1,28 @@
+_repo: Psycho-Phone-Messages_35681
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Grierson, Francis
+    alias: Shepard, Benjamin Henry Jesse Francis
+    birthdate: 1848
+    deathdate: 1927
+    gutenberg_agent_id: '37831'
+    url: http://www.gutenberg.org/2009/agents/37831
+description: ''
+gutenberg_issued: '2011-03-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35681'
+  lccn: '21013313'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BF'
+- !lcsh 'Spiritualism'
+title: Psycho-Phone Messages
+url: http://www.gutenberg.org/ebooks/35681
