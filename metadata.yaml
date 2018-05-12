@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '37831'
     url: http://www.gutenberg.org/2009/agents/37831
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35681#Psycho-Phone-Messages
 gutenberg_issued: '2011-03-25'
 gutenberg_type: Text
 identifiers:
